@@ -11,3 +11,10 @@ Dataset: echocardiogram
  
  Problem: *optimization of sensitivity hyperparameter *missing data
  
+#### 2) Probabilistic programming:
+
+Dataset: films
+
+Algorithm: pymc3 Gamma and Normal
+
+Problem: Film rating as a random value described by normal distribution
