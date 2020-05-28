@@ -18,3 +18,12 @@ Dataset: films
 Algorithm: pymc3 Gamma and Normal
 
 Problem: Film rating as a random value described by normal distribution
+
+
+#### 3) neuron_web:
+
+Dataset: photos
+
+Algorithm: SVM classifier (with face_recognition)
+
+Problem: How much do faces differ from somebodys (each model is a set of preferenced beauty) liking
